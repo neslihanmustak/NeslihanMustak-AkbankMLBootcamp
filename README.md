@@ -57,5 +57,5 @@ Bu proje, geçmiş fiyatlara bakarak oldukça isabetli tahminler yapabileceğimi
 
 ---
 
-Kaggle Linki: [Neslihan-Mustak-MLBootcamp](https://www.kaggle.com/code/neslihanmustak/neslihan-mustak-mlbootcampb2917fc441)
+Kaggle Linki: [Neslihan-Mustak-MLBootcamp](https://www.kaggle.com/code/neslihanmustak/neslihan-mustak-akbankmlbootcamp)
 **Teşekkürler! 🙌**
