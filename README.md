@@ -40,7 +40,7 @@ Proje sürecinde, aşağıdaki adımlar takip edilmiştir:
 ✅ Final Model: **Linear Regression**  
 📉 MSE: *0.3845* (Zaman serisi test verisiyle ölçülmüştür)
 
-> Teknik detaylara ve kullanılan kodlara [Notebook dosyasından](./MLBootcamp_AAPL_PricePrediction.ipynb) ulaşabilirsiniz.
+> Teknik detaylara ve kullanılan kodlara [Notebook dosyasından](./Neslihan-Mustak-MLBootcamp.ipynb) ulaşabilirsiniz.
 
 ---
 
