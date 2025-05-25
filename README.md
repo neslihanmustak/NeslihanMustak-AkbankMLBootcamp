@@ -44,13 +44,7 @@ Proje sürecinde, aşağıdaki adımlar takip edilmiştir:
 
 ---
 
-## ⚡ Ekler
 
-- 📈 Tahmin Grafiği:
-
-![Tahmin Grafiği](a49fe70a-469e-4ecc-b58c-516a8e582ae6.png)
-
----
 
 ## 🚀 Sonuç ve Gelecek Çalışmalar
 
